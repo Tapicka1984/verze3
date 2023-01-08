@@ -1,0 +1,17 @@
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\nákladní vozidlo.csproj.AssemblyReference.cache
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\nákladní_vozidlo.Form1.resources
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\nákladní vozidlo.csproj.GenerateResource.cache
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\nákladní vozidlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\nákladní vozidlo.AssemblyInfoInputs.cache
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\nákladní vozidlo.AssemblyInfo.cs
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\nákladní vozidlo.csproj.CoreCompileInputs.cache
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\bin\Debug\net6.0-windows\nákladní vozidlo.exe
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\bin\Debug\net6.0-windows\nákladní vozidlo.deps.json
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\bin\Debug\net6.0-windows\nákladní vozidlo.runtimeconfig.json
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\bin\Debug\net6.0-windows\nákladní vozidlo.dll
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\bin\Debug\net6.0-windows\nákladní vozidlo.pdb
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\nákladní vozidlo.dll
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\refint\nákladní vozidlo.dll
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\nákladní vozidlo.pdb
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\nákladní vozidlo.genruntimeconfig.cache
+C:\Users\tapic\source\repos\nákladní vozidlo\nákladní vozidlo\obj\Debug\net6.0-windows\ref\nákladní vozidlo.dll
